@@ -1,5 +1,5 @@
 ### ARCHIVED
-NOTE: This Action is no longer used for Autograding tests created via the GitHub Classroom GUI. See our docs on Autograding for more information
+NOTE: This Action is no longer used for Autograding tests created via the GitHub Classroom GUI. See our [docs on Autograding for more information](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/use-autograding#grading-methods)
 
 ## Autograding
 
